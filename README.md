@@ -16,7 +16,7 @@ Demo of Excel Kickstarter_Challenge
 ### Analysis of Outcomes Based on Goals
 ![Outcome Based on Goal](./Outcome_by_Goal.png)
 * Kickstarter projects with a goal of $5,000 or less are the most successful.
-* Note there are also just more projects with a goal of $5,000 or less
+* Note the most common project funding raising goal is between $1,000 and $5,000.
 ![Table of Outcome Based on Goal](./Table_Outcome_by_Goal.png)
 
 ### Challenges and Difficulties Encountered
