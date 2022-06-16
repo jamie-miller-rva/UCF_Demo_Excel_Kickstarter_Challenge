@@ -24,9 +24,15 @@ Demo of Excel Kickstarter_Challenge
 ## Results
 
 - What are two conclusions you can draw about the Outcomes based on Launch Date?
+* Good months to launch a theater project in Kickstarter are May, June, July
+* It is best not to launch a theater project in Kickstarter in December
 
 - What can you conclude about the Outcomes based on Goals?
+* Kickstarter projects with a goal of $5,000 or less are the most successful.
+* Note the most common project funding raising goal is between $1,000 and $5,000.
 
 - What are some limitations of this dataset?
+* Assumes past trends for funding can be projected into the future
 
 - What are some other possible tables and/or graphs that we could create?
+* histogram of project average pledge per backer
