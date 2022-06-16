@@ -11,7 +11,7 @@
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
-![Outcome Based on Launch Date](./Theater_Outcomes_by_Launch_Date.png)
+![Outcome Based on Launch Date](Theater_Outcomes_by_Launch_Date.png)
 * Good months to launch a theater project in Kickstarter are May, June, July
 
 ### Analysis of Outcomes Based on Goals
