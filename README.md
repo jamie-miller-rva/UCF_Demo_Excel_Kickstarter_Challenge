@@ -9,6 +9,7 @@
 ### Purpose
 
 ## Analysis and Challenges
+![Picture of something](picture.png)
 
 ### Analysis of Outcomes Based on Launch Date
 ![Outcome Based on Launch Date](Theater_Outcomes_by_Launch_Date.png)
