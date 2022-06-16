@@ -11,9 +11,11 @@ Demo of Excel Kickstarter_Challenge
 
 ### Analysis of Outcomes Based on Launch Date
 ![Outcome Based on Launch Date](./Theater_Outcomes_by_Launch_Date.png)
+Good months to launch a theater project in Kickstarter are May, June, July
 
 ### Analysis of Outcomes Based on Goals
 ![Outcome Based on Goal](./Outcome_by_Goal.png)
+
 
 ### Challenges and Difficulties Encountered
 
