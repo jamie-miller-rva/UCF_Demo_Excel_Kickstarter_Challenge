@@ -10,6 +10,7 @@ Demo of Excel Kickstarter_Challenge
 ## Analysis and Challenges
 
 ### Analysis of Outcomes Based on Launch Date
+![Outcome Based on Launch Date](./Theater_Outcomes_by_Launch_Date.png)
 
 ### Analysis of Outcomes Based on Goals
 
