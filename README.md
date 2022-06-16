@@ -1,5 +1,5 @@
 # UCF_Demo_Excel_Kickstarter_Challenge
-Demo of Excel Kickstarter_Challenge ---
+Demo of Excel Kickstarter_Challenge---
 Repository Address: https://github.com/jamie-miller-rva/UCF_Demo_Excel_Kickstarter_Challenge
 
 # Kickstarting with Excel
